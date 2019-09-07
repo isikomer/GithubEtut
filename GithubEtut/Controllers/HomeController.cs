@@ -12,6 +12,7 @@ namespace GithubEtut.Controllers
         public ActionResult Index()
         {
             int a = 1;
+            int b = 2;
             return View();
         }
     }
