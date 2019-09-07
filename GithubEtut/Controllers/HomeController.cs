@@ -11,6 +11,7 @@ namespace GithubEtut.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            int a = 1;
             return View();
         }
     }
